@@ -47,9 +47,7 @@ $(() => {
     $(".next").click(() => {
         plusSlides(1)
     });
-    document.onkeydown = (e) => {
-      console.log(e)
-      const key = e.key
+    document.onkeydown = ({key}) => {
       if (key == "ArrowRight") {
         plusSlides(1)
       } else if (key == "ArrowLeft") {
