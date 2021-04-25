@@ -47,7 +47,15 @@ $(() => {
     $(".next").click(() => {
         plusSlides(1)
     });
-    
+    document.onkeydown = (e) => {
+      console.log(e)
+      const key = e.key
+      if (key == "ArrowRight") {
+        plusSlides(1)
+      } else if (key == "ArrowLeft") {
+        plusSlides(-1) 
+      }
+    }
 
     function recursiveAnimateTitle(string) {
         let firstLetter = string[0];
