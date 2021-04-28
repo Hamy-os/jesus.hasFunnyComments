@@ -48,10 +48,12 @@ $(() => {
         plusSlides(1)
     });
     document.onkeydown = ({key}) => {
-      if (key == "ArrowRight") {
+      if (key == "ArrowRight" || key == "d") {
         plusSlides(1)
-      } else if (key == "ArrowLeft") {
+      } else if (key == "ArrowLeft" || key == "a") {
         plusSlides(-1) 
+      } else if (key == "ArrowDown" || key == "s") {
+        location.replace("https://indraisaweeb.com") //requested by indra
       }
     }
 
