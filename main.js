@@ -5,7 +5,7 @@ const messages = ["https://beta.iodine.gg/2hf79.png", "https://beta.iodine.gg/c0
 "https://i.iodine.gg/i9j60.png", "https://i.iodine.gg/2iac5.png", "https://i.iodine.gg/hc042.png", "https://i.iodine.gg/6j75h.png",
 "https://i.iodine.gg/6ed46.png", "https://i.iodine.gg/70g7a.png", "https://i.iodine.gg/ahaa3.png", "https://i.iodine.gg/fi039.png", 
 "https://i.iodine.gg/cfe63.png", "https://i.iodine.gg/53c3h.png", "https://i.iodine.gg/i4i4e.png", "https://i.iodine.gg/ef1g0.png",
-"https://i.iodine.gg/1gb07.png"] //contribute here <3
+"https://i.iodine.gg/1gb07.png", "https://i.iodine.gg/ie4c6.png", "https://i.iodine.gg/bb2cd.png"] //contribute here <3
 
 $(() => {
     messages.forEach((msg, idx) => {
