@@ -9,7 +9,7 @@ const messages = ["https://beta.iodine.gg/2hf79.png", "https://beta.iodine.gg/c0
  "https://i.iodine.gg/0f2gf.png", "https://i.iodine.gg/4f49c.png", "https://i.iodine.gg/98h4b.png", "https://i.iodine.gg/947gj.png",
  "https://jeez.iodine.gg/348b7.png", "https://jeez.iodine.gg/252ha.png", "https://jeez.iodine.gg/2740b.png", "https://jeez.iodine.gg/b5c1c.png",
  "https://jeez.iodine.gg/9j890.png", "https://jeez.iodine.gg/84a3e.png", "https://jeez.iodine.gg/84j73.png", "https://jeez.iodine.gg/a091h.png", 
-"https://jeez.iodine.gg/gbg3e.png", "https://cdn.flerovium.org/ugc/YxmTXP.png"
+"https://jeez.iodine.gg/gbg3e.png", "https://cdn.flerovium.org/ugc/YxmTXP.png", "https://c.iodine.gg/1986d.jpeg"
                  ] //contribute here <3
 
 $(() => {
